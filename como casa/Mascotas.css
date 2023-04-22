@@ -1,0 +1,589 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 5076px;
+	background-color: rgba(244,244,244,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#WhatsApp_Image_2023-04-19_at_1 {
+	position: absolute;
+	width: 1920px;
+	height: 442px;
+	left: 0px;
+	top: 2685px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1078px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cama_para_tu_partner_segn_el_e {
+	left: 80px;
+	top: 209px;
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	height: 289px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Camas_que_van_bien__segn_el_es {
+	left: 50px;
+	top: 1161px;
+	position: absolute;
+	overflow: visible;
+	width: 627px;
+	height: 119px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(75,77,78,1);
+}
+#argumentoventaja_1 {
+	left: 203px;
+	top: 1439px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#argumentoventaja_2 {
+	left: 1340px;
+	top: 2078px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 203px;
+	top: 1504px;
+	position: absolute;
+	overflow: hidden;
+	width: 378px;
+	height: 169px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(75,77,78,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_p {
+	left: 1340px;
+	top: 2143px;
+	position: absolute;
+	overflow: hidden;
+	width: 378px;
+	height: 209px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(75,77,78,1);
+}
+#kari-shea-eMzblc6JmXM-unsplash {
+	position: absolute;
+	width: 387px;
+	height: 500px;
+	left: 662px;
+	top: 1362px;
+	overflow: visible;
+}
+#ruby-schmank-Oq9NDnlFQzU-unspl {
+	position: absolute;
+	width: 387px;
+	height: 500px;
+	left: 203px;
+	top: 2017px;
+	overflow: visible;
+}
+#spacejoy-h2_3dL9yLpU-unsplash {
+	position: absolute;
+	width: 654px;
+	height: 500px;
+	left: 1063px;
+	top: 1362px;
+	overflow: visible;
+}
+#alberto-castillo-q-mx4mSkK9zeo {
+	position: absolute;
+	width: 654px;
+	height: 500px;
+	left: 604px;
+	top: 2017px;
+	overflow: visible;
+}
+#WhatsApp_Image_2023-04-22_at_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1078px;
+	left: 0px;
+	top: 3763px;
+	overflow: visible;
+}
+#Conoce_a_la_autora__y_su_mundo {
+	left: 50px;
+	top: 3908px;
+	position: absolute;
+	overflow: visible;
+	width: 973px;
+	height: 289px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Oferta {
+	left: 509px;
+	top: 4897px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Nombre_de_la_empresa {
+	left: 50px;
+	top: 4899px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Producto_1 {
+	left: 662px;
+	top: 4899px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+}
+#Producto_2 {
+	left: 662px;
+	top: 4931px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+}
+#Producto_3 {
+	left: 662px;
+	top: 4963px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+}
+#Sobre_nosotros {
+	left: 968px;
+	top: 4897px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Contacto {
+	left: 1427px;
+	top: 4899px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#gmailcom {
+	left: 1427px;
+	top: 4944px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: lowercase;
+}
+#n_69_1111111111 {
+	left: 1427px;
+	top: 4976px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: lowercase;
+}
+#Disfruta_nuestros_productos {
+	left: 50px;
+	top: 2789px;
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	height: 192px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1610px;
+	height: 435px;
+	left: 155px;
+	top: 3227px;
+	overflow: hidden;
+}
+#Group_2 {
+	position: absolute;
+	width: 353px;
+	height: 403px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#WhatsApp_Image_2023-04-19_at_1_ {
+	position: absolute;
+	width: 353px;
+	height: 353px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto_1_ {
+	left: 0px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#n_0_000 {
+	left: 271px;
+	top: 377px;
+	position: absolute;
+	overflow: hidden;
+	width: 83px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#Group_2_bb {
+	position: absolute;
+	width: 353px;
+	height: 403px;
+	left: 417px;
+	top: 0px;
+	overflow: visible;
+}
+#WhatsApp_Image_2023-04-19_at_1_bc {
+	position: absolute;
+	width: 353px;
+	height: 353px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto_1_bd {
+	left: 0px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#n_0_000_be {
+	left: 271px;
+	top: 377px;
+	position: absolute;
+	overflow: hidden;
+	width: 83px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#Group_2_bf {
+	position: absolute;
+	width: 353px;
+	height: 403px;
+	left: 834px;
+	top: 0px;
+	overflow: visible;
+}
+#WhatsApp_Image_2023-04-19_at_1_bg {
+	position: absolute;
+	width: 353px;
+	height: 353px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto_1_bh {
+	left: 0px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#n_0_000_bi {
+	left: 271px;
+	top: 377px;
+	position: absolute;
+	overflow: hidden;
+	width: 83px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#Group_2_bj {
+	position: absolute;
+	width: 353px;
+	height: 403px;
+	left: 1251px;
+	top: 0px;
+	overflow: visible;
+}
+#WhatsApp_Image_2023-04-19_at_1_bk {
+	position: absolute;
+	width: 353px;
+	height: 353px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto_1_bl {
+	left: 0px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 26px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#n_0_000_bm {
+	left: 271px;
+	top: 377px;
+	position: absolute;
+	overflow: hidden;
+	width: 83px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(75,77,78,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 1920px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(244,244,244,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#logo {
+	left: 54px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Oferta_bq {
+	left: 1121px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Sobre_nosotros_br {
+	left: 1326px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
+#Contacto_bs {
+	left: 1621px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 23px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(136,136,136,1);
+	text-transform: uppercase;
+}
